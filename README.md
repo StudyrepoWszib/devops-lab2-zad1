@@ -1,1 +1,2 @@
 
+## Hotfix: poprawka w README
